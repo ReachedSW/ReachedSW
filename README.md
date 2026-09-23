@@ -20,3 +20,5 @@
 
 - ⏱️ [**ChronoSched**](https://github.com/ReachedSW/ChronoSched) — C++20 task & event scheduler
 - 📜 [**QuestLint**](https://github.com/ReachedSW/QuestLint) — Static analysis and linting for Lua
+- 🌐 [**iphyer**](https://github.com/Quaflow/iphyer) — Contributor to IP geolocation & network analysis tooling
+  
