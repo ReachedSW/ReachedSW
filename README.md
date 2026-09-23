@@ -16,10 +16,7 @@
 - 🧠 Strongest with **C++, Python, and Lua**
 - 🖥️ Comfortable with **FreeBSD/Linux, MariaDB/MySQL, PostgreSQL, Redis, Docker, and CI/CD**
 
-### 🚀 Open Source
+### 🚀 Featured Open Source
 
-Currently working on:
-
-- ⏱️ **ChronoSched** — C++20 task & event scheduler
-- 📜 **QuestLint** — Lua static analysis and linting
-- 📊 **Server Log Inspector** — Python server-log analysis CLI
+- ⏱️ [**ChronoSched**](https://github.com/ReachedSW/ChronoSched) — C++20 task & event scheduler
+- 📜 [**QuestLint**](https://github.com/ReachedSW/QuestLint) — Static analysis and linting for Lua
